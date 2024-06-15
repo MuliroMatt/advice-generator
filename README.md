@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [My Solution](https://github.com/MuliroMatt/advice-generator)
+- Live Site URL: [Live Site](https://muliromatt.github.io/advice-generator/)
 
 ## My process
 
@@ -43,6 +43,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@MuriloMatt](https://www.frontendmentor.io/profile/MuriloMatt)
+- Linkedin - [Murilo Amorim Mattiuzzi](https://www.linkedin.com/in/murilo-amorim-mattiuzzi-6589752ab/)
